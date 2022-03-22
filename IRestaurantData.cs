@@ -35,11 +35,12 @@ namespace OdeToFood.Data
         {
           return from r in _restaurants orderby r.Cuisine select r;
         }
-        public IEnumerable<Restaurant> GetRestaurantByName(string? name)
+        public IEnumerable<Restaurant> GetRestaurantByName(string name)
         {
             return from r in _restaurants
-                   where r.Name == name
-                   orderby r.Cuisine select r;
+                   where string.IsNullOrEmpty(name) || r.Name.ToLower().StartsWith(name)
+                   orderby r.Name
+                   select r;
         }
 
     }
