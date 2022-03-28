@@ -13,3 +13,5 @@ D:\5iir\Stage PFE\formation pluralsight.net core\OdeToFood.Data\obj\Debug\net6.0
 D:\5iir\Stage PFE\formation pluralsight.net core\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.dll
 D:\5iir\Stage PFE\formation pluralsight.net core\OdeToFood.Data\obj\Debug\net6.0\ref\OdeToFood.Data.dll
 D:\5iir\Stage PFE\formation pluralsight.net core\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.pdb
+D:\5iir\Stage PFE\formation pluralsight.net core\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Data.runtimeconfig.json
+D:\5iir\Stage PFE\formation pluralsight.net core\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.genruntimeconfig.cache
